@@ -1,0 +1,362 @@
+{
+	"set1": {
+		"truth1": "The Great Wall of China is the longest man-made structure in the world.",
+		"truth2": "Mount Everest is the tallest mountain on Earth above sea level.",
+		"lie": "The Great Wall of China is visible from space."
+	},
+	"set2": {
+		"truth1": "The Eiffel Tower was originally intended to be a temporary installation.",
+		"truth2": "The Statue of Liberty was a gift from France to the United States.",
+		"lie": "The Leaning Tower of Pisa was built leaning due to an error in construction."
+	},
+	"set3": {
+		"truth1": "The human brain consists of about 86 billion neurons.",
+		"truth2": "DNA is made up of four nucleotides: adenine, cytosine, guanine, and thymine.",
+		"lie": "Humans have more than two hearts."
+	},
+	"set4": {
+		"truth1": "Isaac Newton formulated the laws of motion and universal gravitation.",
+		"truth2": "Marie Curie discovered radium and polonium.",
+		"lie": "Albert Einstein invented the telescope."
+	},
+	"set5": {
+		"truth1": "The Nile River is the longest river in the world.",
+		"truth2": "The Amazon Rainforest is the largest tropical rainforest on Earth.",
+		"lie": "The Sahara Desert is the coldest desert in the world."
+	},
+	"set6": {
+		"truth1": "The Pacific Ocean is the largest ocean on Earth.",
+		"truth2": "The Earth's atmosphere is composed mainly of nitrogen and oxygen.",
+		"lie": "The Moon is larger than the Earth."
+	},
+	"set7": {
+		"truth1": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+		"truth2": "Water boils at 100 degrees Celsius at sea level.",
+		"lie": "Gold is the most common element in the Earth's crust."
+	},
+	"set8": {
+		"truth1": "The human body has 206 bones.",
+		"truth2": "The Earth orbits around the Sun.",
+		"lie": "Mars has a thicker atmosphere than Earth."
+	},
+	"set9": {
+		"truth1": "The Mona Lisa was painted by Leonardo da Vinci.",
+		"truth2": "Vincent van Gogh painted 'Starry Night'.",
+		"lie": "Pablo Picasso was a famous Italian sculptor."
+	},
+	"set10": {
+		"truth1": "The Declaration of Independence was signed in 1776.",
+		"truth2": "World War II ended in 1945.",
+		"lie": "The Great Wall of China was built in the 16th century."
+	},
+	"set11": {
+		"truth1": "The human heart pumps approximately 7,570 liters of blood per day.",
+		"truth2": "The coldest temperature ever recorded on Earth was -89.2 degrees Celsius.",
+		"lie": "The Earth is flat."
+	},
+	"set12": {
+		"truth1": "The largest volcano in the solar system is Olympus Mons on Mars.",
+		"truth2": "The Sun is a star located at the center of the Solar System.",
+		"lie": "Neptune is the closest planet to the Sun."
+	},
+	"set13": {
+		"truth1": "The capital of France is Paris.",
+		"truth2": "The capital of Japan is Tokyo.",
+		"lie": "The capital of Spain is Rome."
+	},
+	"set14": {
+		"truth1": "The Arctic is located at the northernmost part of the Earth.",
+		"truth2": "Antarctica is the southernmost continent on Earth.",
+		"lie": "The equator runs through North America."
+	},
+	"set15": {
+		"truth1": "The Statue of Liberty's full name is Liberty Enlightening the World.",
+		"truth2": "The Pyramids of Giza are located in Egypt.",
+		"lie": "The Eiffel Tower is taller than the Empire State Building."
+	},
+	"set16": {
+		"truth1": "The human body's largest organ is the skin.",
+		"truth2": "A light-year is a unit of distance, not time.",
+		"lie": "A day on Venus is longer than a year on Venus."
+	},
+	"set17": {
+		"truth1": "The Great Barrier Reef is the largest coral reef system in the world.",
+		"truth2": "The Red Sea is an inlet of the Indian Ocean between Africa and Asia.",
+		"lie": "The Grand Canyon is located in South America."
+	},
+	"set18": {
+		"truth1": "The first moon landing occurred in 1969.",
+		"truth2": "The Titanic sank in 1912.",
+		"lie": "The Great Wall of China was completed in the 20th century."
+	},
+	"set19": {
+		"truth1": "The human skeleton is composed of bones.",
+		"truth2": "The human brain consumes about 20% of the body's oxygen.",
+		"lie": "There are 100 muscles in the human body."
+	},
+	"set20": {
+		"truth1": "The Earth's diameter is about 12,742 kilometers.",
+		"truth2": "Jupiter is the largest planet in the Solar System.",
+		"lie": "Saturn is closer to the Sun than Venus."
+	},
+	"set21": {
+		"truth1": "Diamonds are made of carbon.",
+		"truth2": "The atomic number of oxygen is 8.",
+		"lie": "Water is composed of only one element."
+	},
+	"set22": {
+		"truth1": "Astronauts experience weightlessness in space.",
+		"truth2": "The highest recorded temperature on Earth was 56.7 degrees Celsius.",
+		"lie": "The Great Wall of China is made entirely of steel."
+	},
+	"set23": {
+		"truth1": "The Earth's atmosphere is divided into layers.",
+		"truth2": "Tornadoes are rapidly rotating columns of air.",
+		"lie": "Mount Kilimanjaro is the highest mountain in the world."
+	},
+	"set24": {
+		"truth1": "The capital of Russia is Moscow.",
+		"truth2": "The capital of Brazil is Brasília.",
+		"lie": "The capital of Canada is Buenos Aires."
+	},
+	"set25": {
+		"truth1": "The human body has five senses.",
+		"truth2": "Lightning is a sudden electrostatic discharge.",
+		"lie": "Water expands when it freezes."
+	},
+	"set26": {
+		"truth1": "The Earth's moon is the fifth largest moon in the Solar System.",
+		"truth2": "The speed of sound is faster in solids than in gases.",
+		"lie": "Venus is the only planet that rotates clockwise."
+	},
+	"set27": {
+		"truth1": "The largest desert in the world is the Sahara Desert.",
+		"truth2": "The coldest temperature ever recorded on Earth was in Antarctica.",
+		"lie": "The Nile River is the longest river in South America."
+	},
+	"set28": {
+		"truth1": "The Earth's core is composed mostly of iron and nickel.",
+		"truth2": "Water covers approximately 71% of the Earth's surface.",
+		"lie": "The highest mountain peak in the world is Mount Everest."
+	},
+	"set29": {
+		"truth1": "The International Space Station orbits the Earth.",
+		"truth2": "The Andes Mountains are the longest continental mountain range.",
+		"lie": "The Amazon River is the longest river in Asia."
+	},
+	"set30": {
+		"truth1": "The human body is composed of approximately 60% water.",
+		"truth2": "The speed of light is constant in a vacuum.",
+		"lie": "Sound travels faster in air than in water."
+	},
+	"set31": {
+		"truth1": "The capital of Australia is Canberra.",
+		"truth2": "The capital of India is New Delhi.",
+		"lie": "The capital of China is Mumbai."
+	},
+	"set32": {
+		"truth1": "The Great Pyramid of Giza is the oldest of the Seven Wonders of the Ancient World.",
+		"truth2": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+		"lie": "The Colosseum in Rome was built in the 5th century BC."
+	},
+	"set33": {
+		"truth1": "The human eye can distinguish about 10 million different colors.",
+		"truth2": "The Earth's magnetic field is generated by the movement of molten iron in its outer core.",
+		"lie": "The Sun orbits around the Earth."
+	},
+	"set34": {
+		"truth1": "The human body has over 600 muscles.",
+		"truth2": "The highest recorded wind speed on Earth was 408 kilometers per hour.",
+		"lie": "The Great Wall of China can be seen from Australia."
+	},
+	"set35": {
+		"truth1": "The Galápagos Islands are located in the Pacific Ocean.",
+		"truth2": "The Gulf Stream is a powerful warm ocean current.",
+		"lie": "Mount Everest is located in Africa."
+	},
+	"set36": {
+		"truth1": "The human lungs contain about 300 million alveoli.",
+		"truth2": "The highest mountain peak in North America is Denali.",
+		"lie": "The deepest point in the ocean is in the Arctic Ocean."
+	},
+	"set37": {
+		"truth1": "The capital of South Africa is Pretoria.",
+		"truth2": "The capital of South Korea is Seoul.",
+		"lie": "The capital of Argentina is Rio de Janeiro."
+	},
+	"set38": {
+		"truth1": "The Gulf of Mexico is the largest gulf in the world.",
+		"truth2": "Diamonds are the hardest naturally occurring substance.",
+		"lie": "The Pacific Ocean is the smallest ocean on Earth."
+	},
+	"set39": {
+		"truth1": "The human body has 32 teeth on average.",
+		"truth2": "The Great Barrier Reef is composed of over 2,900 individual reefs.",
+		"lie": "The Sahara Desert is the wettest desert in the world."
+	},
+	"set40": {
+		"truth1": "The coldest temperature ever recorded on Earth was in Vostok Station, Antarctica.",
+		"truth2": "The Earth's mantle is mainly composed of silicate rocks.",
+		"lie": "The Great Wall of China was built in the 19th century."
+	},
+	"set41": {
+		"truth1": "The capital of Egypt is Cairo.",
+		"truth2": "The capital of Turkey is Ankara.",
+		"lie": "The capital of Saudi Arabia is Dubai."
+	},
+	"set42": {
+		"truth1": "The human body has over 200 different types of cells.",
+		"truth2": "A rainbow is caused by the refraction, dispersion, and reflection of light.",
+		"lie": "The Amazon Rainforest is shrinking at an alarming rate."
+	},
+	"set43": {
+		"truth1": "The Mariana Trench is the deepest part of the world's oceans.",
+		"truth2": "The Richter scale measures the magnitude of earthquakes.",
+		"lie": "The Great Wall of China is made entirely of wood."
+	},
+	"set44": {
+		"truth1": "The human body contains about 5 liters of blood.",
+		"truth2": "The Earth's axis is tilted at an angle of approximately 23.5 degrees.",
+		"lie": "The Amazon River flows through Europe."
+	},
+	"set45": {
+		"truth1": "The capital of Germany is Berlin.",
+		"truth2": "The capital of Italy is Rome.",
+		"lie": "The capital of France is Madrid."
+	},
+	"set46": {
+		"truth1": "The human body has about 206 bones at birth.",
+		"truth2": "The Caspian Sea is the largest enclosed inland body of water on Earth by area.",
+		"lie": "The longest river in the world is the Mississippi River."
+	},
+	"set47": {
+		"truth1": "The human body has over 600 muscles.",
+		"truth2": "Sound travels faster through solids than through liquids.",
+		"lie": "The Great Wall of China is the narrowest man-made structure on Earth."
+	},
+	"set48": {
+		"truth1": "The capital of Spain is Madrid.",
+		"truth2": "The capital of Russia is Moscow.",
+		"lie": "The capital of China is Tokyo."
+	},
+	"set49": {
+		"truth1": "The Atlantic Ocean is the second largest ocean in the world.",
+		"truth2": "Mount Kilimanjaro is the tallest mountain in Africa.",
+		"lie": "The Sahara Desert is the largest desert in Asia."
+	},
+	"set50": {
+		"truth1": "The human liver can regenerate itself.",
+		"truth2": "The speed of sound is faster in solids than in gases.",
+		"lie": "The Great Wall of China was built in a single year."
+	},
+	"set51": {
+		"truth1": "The capital of Canada is Ottawa.",
+		"truth2": "The capital of China is Beijing.",
+		"lie": "The capital of Australia is Auckland."
+	},
+	"set52": {
+		"truth1": "The human body has about 640 muscles.",
+		"truth2": "The ozone layer protects the Earth from harmful ultraviolet radiation.",
+		"lie": "The Sahara Desert is the largest desert in South America."
+	},
+	"set53": {
+		"truth1": "The Earth's atmosphere is composed of approximately 78% nitrogen and 21% oxygen.",
+		"truth2": "A light-year is the distance that light travels in one year.",
+		"lie": "The Moon orbits around Mars."
+	},
+	"set54": {
+		"truth1": "The capital of South Africa is Pretoria.",
+		"truth2": "The capital of Argentina is Buenos Aires.",
+		"lie": "The capital of Brazil is Santiago."
+	},
+	"set55": {
+		"truth1": "The human body has over 200 bones at birth.",
+		"truth2": "The human brain contains about 86 billion neurons.",
+		"lie": "The human stomach produces hydrochloric acid to digest food."
+	},
+	"set56": {
+		"truth1": "The coldest temperature ever recorded on Earth was in Antarctica.",
+		"truth2": "The highest mountain peak in the world is Mount Everest.",
+		"lie": "The Great Wall of China was built in the 21st century."
+	},
+	"set57": {
+		"truth1": "The Amazon Rainforest produces 20% of the world's oxygen.",
+		"truth2": "The Nile River is the longest river in Africa.",
+		"lie": "The Sahara Desert is the largest rainforest in the world."
+	},
+	"set58": {
+		"truth1": "The human body's largest organ is the skin.",
+		"truth2": "The fastest land animal is the cheetah.",
+		"lie": "The Pacific Ocean is the smallest ocean on Earth."
+	},
+	"set59": {
+		"truth1": "The Earth's atmosphere is divided into layers.",
+		"truth2": "The Earth's core is composed mainly of iron.",
+		"lie": "The Moon is a star."
+	},
+	"set60": {
+		"truth1": "The capital of Egypt is Cairo.",
+		"truth2": "The capital of Turkey is Ankara.",
+		"lie": "The capital of India is Tehran."
+	},
+	"set61": {
+		"truth1": "The human body has 12 cranial nerves.",
+		"truth2": "The highest waterfall in the world is Angel Falls.",
+		"lie": "The Amazon River flows through Europe."
+	},
+	"set62": {
+		"truth1": "The Great Barrier Reef is the largest coral reef system in the world.",
+		"truth2": "The Red Sea is an inlet of the Indian Ocean.",
+		"lie": "The Grand Canyon is located in Europe."
+	},
+	"set63": {
+		"truth1": "The human body has over 600 muscles.",
+		"truth2": "The Earth's magnetic field protects the planet from solar winds.",
+		"lie": "The Sahara Desert is the wettest desert on Earth."
+	},
+	"set64": {
+		"truth1": "The human body contains about 5 liters of blood.",
+		"truth2": "Sound travels faster in solids than in gases.",
+		"lie": "The Great Wall of China was built in a single day."
+	},
+	"set65": {
+		"truth1": "The capital of France is Paris.",
+		"truth2": "The capital of Japan is Tokyo.",
+		"lie": "The capital of China is Seoul."
+	},
+	"set66": {
+		"truth1": "The human body has over 200 different types of cells.",
+		"truth2": "A rainbow is caused by the refraction of light.",
+		"lie": "The Amazon Rainforest is shrinking at an alarming rate."
+	},
+	"set67": {
+		"truth1": "The Earth's core is primarily composed of iron and nickel.",
+		"truth2": "The highest recorded wind speed on Earth was 408 kilometers per hour.",
+		"lie": "The Great Wall of China is made entirely of wood."
+	},
+	"set68": {
+		"truth1": "The human liver is capable of regeneration.",
+		"truth2": "The speed of sound is faster in solids than in liquids.",
+		"lie": "The Great Wall of China stretches across the entire world."
+	},
+	"set69": {
+		"truth1": "The capital of Germany is Berlin.",
+		"truth2": "The capital of Italy is Rome.",
+		"lie": "The capital of France is London."
+	},
+	"set70": {
+		"truth1": "The Pacific Ocean is the largest ocean on Earth.",
+		"truth2": "The Earth's atmosphere is mainly composed of nitrogen and oxygen.",
+		"lie": "The Moon is larger than the Earth."
+	},
+	"set71": {
+		"truth1": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+		"truth2": "Water boils at 100 degrees Celsius at sea level.",
+		"lie": "Gold is the most common element in the Earth's crust."
+	},
+	"set72": {
+		"truth1": "The human body has 206 bones.",
+		"truth2": "The Earth orbits around the Sun.",
+		"lie": "Mars has a thicker atmosphere than Earth."
+	}
+}
